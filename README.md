@@ -22,7 +22,7 @@ Hi there! I'm Enes Can, a 3rd-year Computer Engineering student in İzmir, and I
 ---
 
 ### 📫 Contact Me
-- **LinkedIn:** [Enes Can Bilgiç]([https://www.linkedin.com](https://www.linkedin.com/in/enes-can-bilgi%C3%A7-44a555226/))  
+- **LinkedIn:** [Enes Can Bilgiç](https://www.linkedin.com/in/enes-can-bilgi%C3%A7-44a555226/)  
 - **Email:** [bilgicenescan@gmail.com](mailto:bilgicenescan@gmail.com)  
 
 ---
