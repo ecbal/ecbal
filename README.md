@@ -2,7 +2,7 @@
 
 **Computer Engineering Student | Aspiring Full Stack Developer | Java & JavaScript Enthusiast**
 
-Hi there! I'm Enes Can, a 3rd-year Computer Engineering student in İzmir, and I'm enhancing my skills in Full Stack development. I build projects using **Java** and **Node.js** on the backend and **React** on the frontend. My passion for coding drives me to keep learning and improving every day.  
+Hi there! I'm Enes Can, Computer Engineering student in İzmir.
 
 ---
 
