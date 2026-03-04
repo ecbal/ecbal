@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Enes Can Bilgiç</h1>
+<h1 align="center">Hi 👋, I'm Enes Can</h1>
 <h3 align="center">Junior Software Developer | Computer Engineering Student | Full Stack Focused</h3>
 
 <p align="center">
@@ -52,14 +52,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enescanbilgic&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enescanbilgic&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 🎯 What I Focus On
 
