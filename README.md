@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Enes Can</h1>
-<h3 align="center">Junior Software Developer | Computer Engineering Student | Full Stack Focused</h3>
+<h3 align="center">Junior Software Developer  Full Stack Focused</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/enes-can-bilgi%C3%A7-44a555226/">
