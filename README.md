@@ -15,7 +15,6 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering student based in İzmir  
 - 💻 Junior Software Developer focused on **Full Stack Development**  
 - ⚡ Interested in scalable backend systems & modern frontend architectures  
 - 🚀 Currently improving myself in **React, Node.js and system design fundamentals**  
